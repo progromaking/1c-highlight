@@ -1,5 +1,5 @@
 # Установка
-* Скопировать всю папку проекта в 'C:\Users\username\.vscode\extensions'
+* Скопировать всю папку проекта в 'C:\Users\username\\.vscode\extensions'
 * Можно удалить папки '.git' и '.vscode'
 * Зайти в VSC в расширения. 
 * Выбрать расширение '1C:Enterprise Theme'
