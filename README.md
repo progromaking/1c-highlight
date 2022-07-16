@@ -8,7 +8,7 @@
 [GitHub Repository](https://github.com/progromaking/1c-highlight)
 
 
-![1С](https://github.com/progromaking/1c-highlight/tree/master/images/code-1c.png)
+![1С](/images/code-1c.png)
 
 ![JSON](https://github.com/progromaking/1c-highlight/tree/master/images/code-json.png)
 
