@@ -7,6 +7,8 @@
 
 [GitHub Repository](https://github.com/progromaking/1c-highlight)
 
+[Описание установки](https://github.com/progromaking/1c-highlight/blob/master/vsc-extension-quickstart.md)
+
 **Код 1С**
 ![1С](https://raw.githubusercontent.com/progromaking/1c-highlight/master/images/code-1c.png)
 
