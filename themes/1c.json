@@ -831,8 +831,10 @@
 
 		{
 			"name": "Основной текст",
-			"scope": ["source.bsl,variable.assignment.bsl",
+			"scope": ["source.bsl",
+						"variable.assignment.bsl",
 						"entity.name.function.bsl",
+						"support.class.bsl",
 						"variable.parameter.bsl"
 			],
 			"settings": {
@@ -851,8 +853,10 @@
 			"scope": ["storage.type.bsl",
 						"support.function.bsl",
 						"keyword.control.conditional.bsl",
+						"keyword.operator.logical.bsl",
 						"keyword.control.repeat.bsl",
 						"keyword.control.bsl",
+						"storage.modifier.bsl",
 						"constant.language.bsl"
 			],
 			"settings": {
