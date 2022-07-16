@@ -1,5 +1,5 @@
 {
-	"name": "Armadillo Light Theme",
+	"name": "1C:Enterprise Theme",
 	"$schema": "vscode://schemas/color-theme",
 	"type": "light",
 	"colors": {
@@ -826,6 +826,95 @@
 			"settings": {
 				"foreground": "#000000"
 			}
-		}
+		},
+
+
+		{
+			"name": "Основной текст",
+			"scope": ["source.bsl,variable.assignment.bsl",
+						"entity.name.function.bsl",
+						"variable.parameter.bsl"
+			],
+			"settings": {
+			  "foreground": "#0000FF"
+			}
+		  },  
+		  {
+			"name": "Комментарии",
+			"scope": "comment.line.double-slash.bsl",
+			"settings": {
+			  "foreground": "#008000"
+			}
+		  },  
+		  {
+			"name": "Ключевые слова",
+			"scope": ["storage.type.bsl",
+						"support.function.bsl",
+						"keyword.control.conditional.bsl",
+						"keyword.control.repeat.bsl",
+						"keyword.control.bsl",
+						"constant.language.bsl"
+			],
+			"settings": {
+			  "foreground": "#FF0000"
+			}
+		  },  
+		  {
+			"name": "Знаки пунктуации",
+			"scope": ["keyword.operator.bsl",
+						"punctuation.bracket.end.bsl",
+						"punctuation.bracket.begin.bsl",
+						"keyword.operator.comparison.bsl"
+			],
+			"settings": {
+			  "foreground": "#FF0000"
+			}
+		  },  
+		  {
+			"name": "Строки",
+			"scope": "string.quoted.double.bsl",
+			"settings": {
+			  "foreground": "#000000",
+			}
+		  },  
+		  {
+			"name": "Директивы",
+			"scope": ["storage.type.annotation.bsl",
+						"keyword.other.section.bsl",
+						"entity.name.section.bsl",
+						"storage.modifier.directive.bsl",
+						"keyword.other.preprocessor.bsl"
+			],
+			"settings": {
+			  "foreground": "#963200",
+			}
+		  },  
+		  {
+			"name": "Ключевые слова в запросах",
+			"scope": ["keyword.control.sdbl",
+						"keyword.operator.logical.sdbl"
+			],
+			"settings": {
+			  "foreground": "#009DB2"
+			}
+		  },  
+		  {
+			"name": "Функции в запросах",
+			"scope": ["support.function.sdbl",
+						"keyword.control.conditional.sdbl"
+			],
+			"settings": {
+			  "foreground": "#800000"
+			}
+		  },  
+		  {
+			"name": "Числа в запросах",
+			"scope": "constant.numeric.sdbl",
+			"settings": {
+			  "foreground": "#FF00FF"
+			}
+		  }
+
+
 	]
 }

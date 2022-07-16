@@ -1,8 +1,8 @@
 {
-	"name": "armadillo",
-	"displayName": "Armadillo Light Theme",
-	"description": "Here is the best theme for your eye care!",
-	"version": "2.3.0",
+	"name": "1C:Enterprise",
+	"displayName": "1C:Enterprise Theme",
+	"description": "Привычная расцветка из ванильного конфигуратора",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.39.0"
 	},
@@ -12,26 +12,26 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Armadillo Light Theme",
+				"label": "1C:Enterprise Theme",
 				"uiTheme": "vs",
-				"path": "./themes/armadillo.json"
+				"path": "./themes/1C.json"
 			}
 		]
 	},
-	"publisher": "rahmanyerli",
+	"publisher": "progromaging",
 	"author": {
-		"name": "Rahman Yerli"
+		"name": "Mochalov Yurii"
 	},
 	"license": "MIT",
 	"repository": {
 		"type": "GitHub",
-		"url": "https://github.com/rahmanyerli/armadillo"
+		"url": "https://github.com/progromaking/1c-highlight"
 	},
-	"icon": "images/armadillo.png",
+	"icon": "images/icon-1c.png",
 	"keywords": [
-		"armadillo",
-		"armadillo light",
-		"light theme",
+		"Enterprise",
+		"bsl",
+		"1C",
 		"light",
 		"theme"
 	]

@@ -1,10 +1,17 @@
-# Armadillo theme for VSCode
+# Подсветка 1С:Предприятия для VSCode
 
-**Here is the best theme for your eye care!**
+**Тема работает при установленном плагине Language 1C (BSL)**
 
-[GitHub Repository](https://github.com/rahmanyerli/armadillo)
+**Сделано на базе темы Armadillo, в которую добавлена раскраска 1С:Предприятие**
 
 
-![Screen Shot-III](./images/code.png)
+[GitHub Repository](https://github.com/progromaking/1c-highlight)
+
+
+![1С](https://github.com/progromaking/1c-highlight/tree/master/images/code-1c.png)
+
+![JSON](https://github.com/progromaking/1c-highlight/tree/master/images/code-json.png)
+
+![XML](https://github.com/progromaking/1c-highlight/tree/master/images/code-xml.png)
 
 **Enjoy!**
