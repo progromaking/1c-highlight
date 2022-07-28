@@ -869,7 +869,7 @@
 						"punctuation.bracket.end.bsl",
 						"punctuation.bracket.begin.bsl",
 						"keyword.operator.comparison.bsl",
-				  		"keyword.operator.assignment.bsl"
+						"keyword.operator.assignment.bsl"
 			],
 			"settings": {
 			  "foreground": "#FF0000"
@@ -906,6 +906,7 @@
 		  {
 			"name": "Функции в запросах",
 			"scope": ["support.function.sdbl",
+						"variable.parameter.sdbl",
 						"keyword.control.conditional.sdbl"
 			],
 			"settings": {
